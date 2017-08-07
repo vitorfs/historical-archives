@@ -10,4 +10,4 @@ a **function** was, and yet I managed to code those two small games.
 
 Anyway, I uploaded them here just for historical purpose!
 
-- Vitor
+Vitor
